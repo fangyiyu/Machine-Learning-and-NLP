@@ -8,13 +8,13 @@ Linear Regression
 Logistic Rregression
 
 ## Tree based
-Desicion Tree
-Random Forest
-Gradient Boosting Decision Tree
+Desicion Tree  
+Random Forest  
+Gradient Boosting Decision Tree  
 Xgboost
 
 ## Others
-Naive Bayes
+Naive Bayes  
 KNN
 
 
