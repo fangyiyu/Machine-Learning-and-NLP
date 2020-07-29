@@ -5,17 +5,18 @@ This repository contains three parts: the source code for basic machine learning
 # 1. Build algorithms from scratch
 ## LR
 [Linear Regression](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Linear_regression.ipynb)    
-Logistic Rregression
+[Logistic Rregression](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Linear_regression.ipynb)
 
 ## Tree based
-Desicion Tree  
-Random Forest  
-Gradient Boosting Decision Tree  
-Xgboost
+[Desicion Tree](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Decison%20Tree.ipynb)  
+[Random Forest](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Random%20Forest.ipynb)    
+[Gradient Boosting Decision Tree](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/GBDT.ipynb)    
+[Xgboost](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Xgboost.ipynb)  
 
 ## Others
-Naive Bayes  
-KNN
+[Naive Bayes](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Naive%20Bayes.ipynb)    
+[KNN](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/KNN.ipynb)  
+[PCA](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/PCA.ipynb)  
 
 
 # 2. Notebook for Machine learning
