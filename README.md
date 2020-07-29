@@ -4,7 +4,7 @@ This repository contains three parts: the source code for basic machine learning
 
 # 1. Build algorithms from scratch
 ## LR
-[Linear Regression]（https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Linear_regression.ipynb）    
+[Linear Regression](https://github.com/fangyiyu/Machine_Learning_Source_code/blob/master/Linear_regression.ipynb)    
 Logistic Rregression
 
 ## Tree based
