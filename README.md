@@ -1,10 +1,10 @@
 
 
-This repository contains two parts: the source code for basic machine learning algorithms, including two main genres: logistic regression and tree based algorithms, and theoretical concepts behind each machine learning and deep learning algorithms, such as underlying mathematical manipulations and implementations.
+This repository contains three parts: the source code for basic machine learning algorithms, including two main genres: logistic regression and tree based algorithms, theoretical concepts behind machine learning, and natural language processing, including but not limited to the underlying mathematical manipulations and implementations.
 
 # 1. Build algorithms from scratch
 ## LR
-Linear Regression
+Linear Regression/
 Logistic Rregression
 
 ## Tree based
