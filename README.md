@@ -1,6 +1,6 @@
 
 
-This repository contains three parts: the source code for basic machine learning algorithms in python, including two main genres: logistic regression and tree based algorithms; theoretical concepts behind machine learning, as well as natural language processing, which include but not limited to the underlying mathematical manipulations and implementations. The notebooks are orgnized by the help of resources from multipile online platforms, such us publications, MEDIUM, CSDN, ZHIHU, JIANSHU, etc.
+This repository contains three parts: the source code for fundamental machine learning algorithms in python, including two main genres: logistic regression and tree-based algorithms; theoretical concepts behind machine learning, as well as natural language processing, which include but are not limited to the underlying mathematical manipulations and implementations. The notebooks are organized by resources from multiple online platforms, such us literature publications, Medium, CSDN, StackOverflow, ZhiHu, etc.
 
 # 1. Build algorithms from scratch
 ## LR
